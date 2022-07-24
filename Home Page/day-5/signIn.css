@@ -191,6 +191,10 @@ h1{
     border-radius: 40px;
     border: 1px solid;
 }
+#signUp>button>a{
+    text-decoration-line: none;
+    color: #202340;
+}
 
 
 
